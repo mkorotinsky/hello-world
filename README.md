@@ -1,2 +1,2 @@
 # hello-world
-First GitHub repository for me
+Hi People - Mike here.  Been a programmer for a long time but not active for a while.
